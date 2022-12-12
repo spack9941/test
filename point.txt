@@ -1,3 +1,4 @@
 helo world 
 night out point chill
-
+mvn archetype:generate -DgroupId=in.javahome.bot -DartifactId=hrapp -DarchetypeArtifactId=
+maven-archetype-webapp -DarchetypeVersion=1.4 -DinteractiveMode=false
